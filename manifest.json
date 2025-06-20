@@ -4,7 +4,7 @@
   "default_locale": "en",
   "version": "1.0",
   "description": "Web sayfalarını gece moduna alır.",
-  "permissions": ["scripting", "activeTab"],
+  "permissions": ["scripting", "activeTab", "tabs"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
